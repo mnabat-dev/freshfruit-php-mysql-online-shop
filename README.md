@@ -38,7 +38,7 @@ Ein vollständiger, datenbankgestützter E-Commerce-Onlineshop für frische Obst
 ```
 ---
 
-## EN English
+## 🇬🇧 English Version
 
 # Obstmarkt Online-Shop | Fruit E-Commerce Web App
 
