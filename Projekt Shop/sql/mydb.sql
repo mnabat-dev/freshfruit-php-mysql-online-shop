@@ -142,8 +142,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`iduser`, `name`, `Telefonnummer`, `email`, `passwort`, `PLZ`, `Ort`, `Strasse`, `Hausnummer`, `rolle`, `status`) VALUES
-(1, 'user', '01776409602', 'test@gmail.com', '$2y$10$EB.MrJle1BXGdyYXjZMjkuRDPVcgE3cBOkKvhFTdBSA8vnywRUc4S', 45479, 'Muelheim', 'Prinzess-Luise strasse', '113', 'user', 'angemeldet'),
-(2, 'admin2', '1', 'admin@gmail.com', '$2y$10$Y9wuIuD4wWbWem/PErehbO96EBIYN6SwOnUgfi7AjNOUQddBG85b6', 1, 'Essen', 'Prinzeß-Luise straße', '113', 'admin', 'abgemeldet');
+(1, 'user', '0123456789', 'test@gmail.com', '$2y$10$EB.MrJle1BXGdyYXjZMjkuRDPVcgE3cBOkKvhFTdBSA8vnywRUc4S', 44444, 'Berlin', 'Berliner Strasse', '33', 'user', 'angemeldet'),
+(2, 'admin2', '1', 'admin@gmail.com', '$2y$10$Y9wuIuD4wWbWem/PErehbO96EBIYN6SwOnUgfi7AjNOUQddBG85b6', 1, 'Koeln', 'Koelner Strasse', '13', 'admin', 'abgemeldet');
 
 --
 -- Indizes der exportierten Tabellen
