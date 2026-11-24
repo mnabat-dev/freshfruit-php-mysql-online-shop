@@ -78,4 +78,8 @@ A full-stack, database-driven e-commerce web application for fresh fruit product
 ├── mydb.sql           # Database schema & sample seed data
 └── user/
     ├── register.php   # Customer registration form
-    └── admin.php      # Admin panel (CRUD for users, products, categories, suppliers)
+    └── admin.php      # Admin panel (CRUD for users, products, categories, suppliers) (admin@gmail.com, admin) (test@gmail.com, test)
+```
+
+Author
+MN
